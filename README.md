@@ -12,8 +12,6 @@ make Boston_NY
 
 * The [map](src\Boston_NY.html) is created in html format.
 
-* There is also [a colab link](https://colab.research.google.com/drive/1VlTgZ04feo7zAJzSfw8GMtCSx9Q79-FT#scrollTo=GGtjydhGliMF) for the interactive code.
-
 ## Links to Resources
 
 * Report: [Report in pdf](docs/CS5800_final_project.pdf) and [its source file(.TeX)](src/CS5800_final_project.TeX)

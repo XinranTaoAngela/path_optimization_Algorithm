@@ -13,3 +13,7 @@ make Boston_NY
 
 ## Links to Resources
 
+* Report: [Report](docs/report.pdf)
+* Presentation Video Link: [youtu.be/2krUuro5zhA](https://youtu.be/2krUuro5zhA)
+* Presentation Slide Link: [Slides](docs/Final_presentation.pdf)
+* Colab Link: [colab.research.google.com/drive/1VlTgZ04feo7zAJzSfw8GMtCSx9Q79-FT](https://colab.research.google.com/drive/1VlTgZ04feo7zAJzSfw8GMtCSx9Q79-FT)

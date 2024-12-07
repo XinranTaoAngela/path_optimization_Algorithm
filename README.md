@@ -7,7 +7,7 @@
 make Boston_NY
 ```
 
-* This will also create a map(\src\Boston_NY.html) showing the path in html.
+* This will also create a map[\src\Boston_NY.html] showing the path in html.
 
 * There is also (a colab link)[https://colab.research.google.com/drive/1VlTgZ04feo7zAJzSfw8GMtCSx9Q79-FT#scrollTo=GGtjydhGliMF] for the interactive code.
 
